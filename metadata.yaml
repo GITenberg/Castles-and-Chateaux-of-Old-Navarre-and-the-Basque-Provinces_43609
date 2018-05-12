@@ -1,0 +1,41 @@
+_repo: Castles-and-Chateaux-of-Old-Navarre-and-the-Basque-Provinces_43609
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - Mansfield, Blanche McManus
+    - MacManus, Blanche
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 43609-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Miltoun, Francis
+    - Mansfield, Milburg Francisco
+    - Mansfield, M.F
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43609'
+  lccn: 07038519
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pyrenees -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'Castles -- France'
+title: Castles and Chateaux of Old Navarre and the Basque Provinces
+url: http://www.gutenberg.org/ebooks/43609

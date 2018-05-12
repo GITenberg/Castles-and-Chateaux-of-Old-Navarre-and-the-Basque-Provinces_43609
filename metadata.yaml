@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '31606'
     url: http://www.gutenberg.org/2009/agents/31606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43609#Castles-and-Chateaux-of-Old-Navarre-and-the-Basque-Provinces
 gutenberg_issued: '2013-08-31'
 gutenberg_type: Text
 identifiers:
